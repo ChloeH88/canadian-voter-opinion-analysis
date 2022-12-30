@@ -12,9 +12,9 @@ Advise the **liberal party** to focus on **voters of specific education backgrou
 - Simple linear regression
   
 ### 🔑Conclusions
-Please refer to the [final presentation slides](https://github.com/ChloeH88/canadian-voter-opinion-analysis/project.pdf).
+Please refer to the [final presentation slides](https://github.com/ChloeH88/canadian-voter-opinion-analysis/blob/main/project.pdf).
 
-You can also refer [the source codes here](https://github.com/ChloeH88/canadian-voter-opinion-analysis/project.Rmd).
+You can also refer [the source codes here](https://github.com/ChloeH88/canadian-voter-opinion-analysis/blob/main/project.Rmd).
 
 
 
